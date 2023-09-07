@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-// Programa que suma los dígitos de un número.
+// Programa que suma los dÃ­gitos de un nÃºmero.
+//Genaro Bermudez. 179588
 
 int main(){
 	
@@ -16,7 +17,7 @@ int main(){
         numero /= 10;  
         }
 		
-		printf("La suma de los dígitos es: %d\n", suma);
+		printf("La suma de los dÃ­gitos es: %d\n", suma);
 	
 	return 0;
 }
