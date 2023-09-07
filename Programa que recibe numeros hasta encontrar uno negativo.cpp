@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//Programa que recibe números hasta encontrar uno negativo.
+//Programa que recibe numeros hasta encontrar uno negativo.
 //Genaro Bermudez. 179588
 
 int main() {	
