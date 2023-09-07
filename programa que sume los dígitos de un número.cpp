@@ -17,7 +17,7 @@ int main(){
         numero /= 10;  
         }
 		
-		printf("La suma de los dígitos es: %d\n", suma);
+		printf("La suma de los digitos es: %d\n", suma);
 	
 	return 0;
 }
