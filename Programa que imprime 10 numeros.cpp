@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//Programa que imprime los 10 números siguientes a partir del que eliges.
+//Programa que imprime los 10 numeros siguientes a partir del que eliges.
 //Genaro Bermudez. 179588
 
 int main() {
