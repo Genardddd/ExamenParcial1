@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Programa que suma los dígitos de un número.
+//Programa que suma los digitos de un numero.
 //Genaro Bermudez. 179588
 
 int main(){
