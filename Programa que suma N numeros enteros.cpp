@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//Programa que suma N números enteros.
+//Programa que suma N numeros enteros.
 //Genaro Bermudez. 179588
 
 int main() {	
